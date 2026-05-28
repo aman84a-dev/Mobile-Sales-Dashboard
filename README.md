@@ -67,9 +67,3 @@ Aman Chaurasia
 
 - 🔗 LinkedIn: https://linkedin.com/in/aman-chaurasia-279539234
 - 💻 GitHub: https://aman84a-dev.github.io
-
----
-
-⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
