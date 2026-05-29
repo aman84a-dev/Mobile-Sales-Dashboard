@@ -41,8 +41,15 @@ The dashboard helps track key metrics, identify trends, and support data-driven 
 📊 Dashboard Preview
 
 <p align="center">
-  <img src="screenshot1.png" width="80%" alt="Dashboard Preview"/>
-</p>---
+  <img src="Dashboard.png" width="80%" alt="Dashboard Preview"/>
+</p>
+<p align="center">
+  <img src="MTD-Report.png" width="80%" alt="Dashboard Preview"/>
+</p>
+<p align="center">
+  <img src="Same-Period-Last-Year.png" width="80%" alt="Dashboard Preview"/>
+</p>
+---
 
 💡 Key Insights
 
