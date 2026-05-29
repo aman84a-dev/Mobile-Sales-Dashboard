@@ -47,7 +47,7 @@ The dashboard helps track key metrics, identify trends, and support data-driven 
   <img src="MTD-Report.png" width="80%" alt="Dashboard Preview"/>
 </p>
 <p align="center">
-  <img src=".../blob/main/Same-Period-Last-Year.png" width="80%" alt="Same Period Last Year"/>
+  <img src="Same-Period-Last-Year.png" width="80%" alt="Same-Period-Last-Year"/>
 </p>
 ---
 
